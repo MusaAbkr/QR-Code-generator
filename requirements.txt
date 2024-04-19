@@ -1,0 +1,6 @@
+streamlit
+joblib
+numpy
+streamlit_lottie
+streamlit_extras
+decoder
