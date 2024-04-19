@@ -1,6 +1,6 @@
 streamlit
 joblib
-numpy
+qrcode
 streamlit_lottie
 streamlit_extras
 decoder
